@@ -1,5 +1,6 @@
 This folder contains all the necessary Python scripts required to perform stereo vision on the dataset given to us. The directory structure of the project file is as follows
 
+```bash
 .
 ├── curule/
 │   ├── calib.txt
@@ -20,7 +21,7 @@ This folder contains all the necessary Python scripts required to perform stereo
 ├── compute_depth.py
 ├── pipeline.py
 └── stereo_vision.py
-
+```
 
 <br>Curule, Octagon, and Pendulum folders are the dataset required to perform stereo vision.
 <br>
